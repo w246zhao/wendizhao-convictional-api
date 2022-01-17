@@ -1,0 +1,1 @@
+To start, run using `node index.js`
